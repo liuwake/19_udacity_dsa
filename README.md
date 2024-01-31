@@ -18,3 +18,12 @@ Build on your algorithm skills by learning more advanced algorithms such as brut
 
 ##### Disclaimer:
 This material is provided as a guide, __its purpose is not to be copied__ and presented as genuine on Udacities' _project submissions_. Udacities' courses are a journey, __the certificate does not make you knowledgeable, it's the experiencie you gain while you work through it!__
+
+
+## Env
+```shell
+conda create -n nd256 python=3.6 -y && conda activate nd256
+conda install jupyter notebook -y
+
+
+```
